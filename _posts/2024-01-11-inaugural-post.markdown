@@ -15,7 +15,7 @@ The radio shows were fun.  As much as all of these were audiotory forms of media
 
 One of the family favorites was a show called Fibber McGee and Molly.  It was a WWII era sitcom, and featured a cast of recurring characters.  One such, the Old Timer, would often follow a trope-like interaction with the main cast.  Often after hearing some character talk about a recent happening, he'd wheeze out
 
-> That ain't the way I hear'd [note: procounced "hear-ed"] it.  The way I hear'd it, one feller says to th' other feller, he says, ...
+> That ain't the way I hear'd [note: pronounced "hear-ed"] it.  The way I hear'd it, one feller says to th' other feller, he says, ...
 
 and launch into his own story that may or may not have been at all related to what he'd just heard.  By today's standards, it may not be very funny, but that was 1940s humor I guess.
 
