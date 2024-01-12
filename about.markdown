@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Jimmy!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site is an outlet for me to express my thoughts and experiences - whether about professional topics, fatherhood, politics, or other ideas inspired in the shower.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I've been a software developer for over 15 years, working primarily in .NET since 2007.  Prior to my professional career, I studied computer science at the University of Washington, in Seattle, WA.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I currently have one child; she was diagnosed with autism at an early age.  It's given me an interesting parenting experience, including leading to my own assessment and diagnosis with ASD and OCD at the ripe age of 37.  Humans are incredibly diverse in how they experience the world, and by swapping experiences with others, I've come to understand and accept the qualities that make me unique.  My hope is that sharing my perspective will contribute to someone else's self-understanding. 
